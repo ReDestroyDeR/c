@@ -4,3 +4,4 @@ set(CMAKE_C_STANDARD 23)
 project(root C)
 
 add_subdirectory(linkedlist)
+add_subdirectory(merge_sort)
