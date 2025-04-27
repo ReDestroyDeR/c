@@ -9,6 +9,8 @@
 
 #if DEBUG_ON
 #define X_DEBUG(v) { v }
+#define X_DEBUG_DEF(v) v
 #else
 #define X_DEBUG(v)
+#define X_DEBUG_DEF(v)
 #endif

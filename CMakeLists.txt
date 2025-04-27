@@ -5,3 +5,4 @@ project(root C)
 
 add_subdirectory(linkedlist)
 add_subdirectory(merge_sort)
+add_subdirectory(vector)
